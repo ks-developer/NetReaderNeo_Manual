@@ -1,355 +1,355 @@
-<?xml version="1.0" encoding="shift_jis" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <list-index xmlns="http://www.aok-net.com/list-index">
 
-	<title>NetReader �}�j���A��</title>
+	<title>NetReader マニュアル</title>
 	<linkBase />
 
-	<item>
-		<category>�X�V���</category>
-		<link>�X�V���.htm</link>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>更新情報</category>
+		<link>更新情報.htm</link>
+	</item>
+
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ベータ版更新情報</category>
+		<link>ベータ版更新情報.htm</link>
 	</item>
 
 	<item target="beta">
-		<category>�ߋ��̍X�V����</category>
-		<link>�X�V����.htm</link>
+		<category>過去の更新履歴(サポート用)</category>
+		<link>更新履歴.htm</link>
 	</item>
 
 	<item target="nonet">
-		<category>�ߋ��̍X�V����</category>
-		<link>�X�V����.htm</link>
+		<category>過去の更新履歴</category>
+		<link>更新履歴.htm</link>
 	</item>
 
 	<item>
-		<category>�i������v���O�����ɂ���</category>
-		<link>NetReader3/�͂��߂�/�i������v���O�����ɂ���.htm</link>
+		<category>品質向上プログラムについて</category>
+		<link>NetReader3/はじめに/品質向上プログラムについて.htm</link>
 	</item>
 
 	<item>
-		<category>�͂��߂�/�l�b�g���[�_�[�̓����</category>
-		<link>NetReader3/�͂��߂�/�l�b�g���[�_�[�̓����.htm</link>
+		<category>はじめに/ネットリーダーの動作環境</category>
+		<link>NetReader3/はじめに/ネットリーダーの動作環境.htm</link>
 	</item>
 	<item>
-		<category>�͂��߂�/�}�j���A���̕\�L�ɂ���</category>
-		<link>NetReader3/�͂��߂�/�}�j���A���̕\�L�ɂ���.htm</link>
+		<category>はじめに/マニュアルの表記について</category>
+		<link>NetReader3/はじめに/マニュアルの表記について.htm</link>
 	</item>
 	<item>
-		<category>�͂��߂�/�}�j���A���̓ǂݏグ���ɂ���</category>
-		<link>NetReader3/�͂��߂�/�}�j���A���̓ǂݏグ���ɂ���.htm</link>
+		<category>はじめに/マニュアルの読み上げ方について</category>
+		<link>NetReader3/はじめに/マニュアルの読み上げ方について.htm</link>
 	</item>
 	<item>
-		<category>�͂��߂�/���쌠�ɂ���</category>
-		<link>NetReader3/�͂��߂�/���쌠�ɂ���.htm</link>
+		<category>はじめに/著作権について</category>
+		<link>NetReader3/はじめに/著作権について.htm</link>
 	</item>
 	<item>
-		<category>�͂��߂�/�n���}�j���A���Ɠ_���R�}���h�\�̏Љ�</category>
-		<link>NetReader3/�͂��߂�/�n���}�j���A���Ɠ_���R�}���h�\�̏Љ�.htm</link>
-	</item>
-
-
-	<item>
-		<category>�C���^�[�l�b�g���n�߂�O��/�C���^�[�l�b�g�ւ̐ڑ�</category>
-		<link>NetReader3/�C���^�[�l�b�g���n�߂�O��/�C���^�[�l�b�g�ւ̐ڑ�.htm</link>
-	</item>
-	<item>
-		<category>�C���^�[�l�b�g���n�߂�O��/�C���^�[�l�b�g�p��Ɩ{�}�j���A���̕\�L</category>
-		<link>NetReader3/�C���^�[�l�b�g���n�߂�O��/�C���^�[�l�b�g�p��Ɩ{�}�j���A���̕\�L.htm</link>
-	</item>
-	<item>
-		<category>�C���^�[�l�b�g���n�߂�O��/�l�b�g���[�_�[�̋N���ƏI��</category>
-		<link>NetReader3/�C���^�[�l�b�g���n�߂�O��/�l�b�g���[�_�[�̋N���ƏI��.htm</link>
-	</item>
-	<item>
-		<category>�C���^�[�l�b�g���n�߂�O��/���߂ċN�������Ƃ��̃X�^�[�g���</category>
-		<link>NetReader3/�C���^�[�l�b�g���n�߂�O��/���߂ċN�������Ƃ��̃X�^�[�g���.htm</link>
+		<category>はじめに/墨字マニュアルと点字コマンド表の紹介</category>
+		<link>NetReader3/はじめに/墨字マニュアルと点字コマンド表の紹介.htm</link>
 	</item>
 
 
 	<item>
-		<category>�͂��߂ẴC���^�[�l�b�g/�O����</category>
-		<link>NetReader3/�͂��߂ẴC���^�[�l�b�g/�O����.htm</link>
+		<category>インターネットを始める前に/インターネットへの接続</category>
+		<link>NetReader3/インターネットを始める前に/インターネットへの接続.htm</link>
 	</item>
 	<item>
-		<category>�͂��߂ẴC���^�[�l�b�g/�y�[�W���J���Ă݂�</category>
-		<link>NetReader3/�͂��߂ẴC���^�[�l�b�g/�y�[�W���J���Ă݂�.htm</link>
+		<category>インターネットを始める前に/インターネット用語と本マニュアルの表記</category>
+		<link>NetReader3/インターネットを始める前に/インターネット用語と本マニュアルの表記.htm</link>
 	</item>
 	<item>
-		<category>�͂��߂ẴC���^�[�l�b�g/�J�����y�[�W�̓��e���m�F����</category>
-		<link>NetReader3/�͂��߂ẴC���^�[�l�b�g/�J�����y�[�W�̓��e���m�F����.htm</link>
+		<category>インターネットを始める前に/ネットリーダーの起動と終了</category>
+		<link>NetReader3/インターネットを始める前に/ネットリーダーの起動と終了.htm</link>
 	</item>
 	<item>
-		<category>�͂��߂ẴC���^�[�l�b�g/���ɒm�肽���y�[�W���J��</category>
-		<link>NetReader3/�͂��߂ẴC���^�[�l�b�g/���ɒm�肽���y�[�W���J��.htm</link>
-	</item>
-
-
-	<item>
-		<category>�y�[�W���J��/�A�h���X���w�肵�ĊJ��</category>
-		<link>NetReader3/�y�[�W���J��/�A�h���X���w�肵�ĊJ��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W���J��/�y�[�W��T���ĊJ��</category>
-		<link>NetReader3/�y�[�W���J��/�y�[�W��T���ĊJ��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W���J��/���C�ɓ��肩��J��</category>
-		<link>NetReader3/�y�[�W���J��/���C�ɓ��肩��J��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W���J��/�ߋ��ɊJ�����y�[�W���J��</category>
-		<link>NetReader3/�y�[�W���J��/�ߋ��ɊJ�����y�[�W���J��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W���J��/�ŋߊJ�����y�[�W���J��</category>
-		<link>NetReader3/�y�[�W���J��/�ŋߊJ�����y�[�W���J��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W���J��/�z�[�����J��</category>
-		<link>NetReader3/�y�[�W���J��/�z�[�����J��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W���J��/�V�����l�b�g���[�_�[�ŊJ��</category>
-		<link>NetReader3/�y�[�W���J��/�V�����l�b�g���[�_�[�ŊJ��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W���J��/�N�C�b�N�A�N�Z�X</category>
-		<link>NetReader3/�y�[�W���J��/�N�C�b�N�A�N�Z�X.htm</link>
+		<category>インターネットを始める前に/初めて起動したときのスタート画面</category>
+		<link>NetReader3/インターネットを始める前に/初めて起動したときのスタート画面.htm</link>
 	</item>
 
 
 	<item>
-		<category>�y�[�W�̑��� ����/��{�I�ȃJ�[�\���ړ�</category>
-		<link>NetReader3/�y�[�W�̑��� ����/��{�I�ȃJ�[�\���ړ�.htm</link>
+		<category>はじめてのインターネット/前書き</category>
+		<link>NetReader3/はじめてのインターネット/前書き.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/�����N�̑���</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�����N�̑���.htm</link>
+		<category>はじめてのインターネット/ページを開いてみる</category>
+		<link>NetReader3/はじめてのインターネット/ページを開いてみる.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/�y�[�W���e�̓ǂݏグ</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�y�[�W���e�̓ǂݏグ.htm</link>
+		<category>はじめてのインターネット/開いたページの内容を確認する</category>
+		<link>NetReader3/はじめてのインターネット/開いたページの内容を確認する.htm</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/次に知りたいページを開く</category>
+		<link>NetReader3/はじめてのインターネット/次に知りたいページを開く.htm</link>
 	</item>
 
 
 	<item>
-		<category>�y�[�W�̑��� ����/�y�[�W���̌���</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�y�[�W���̌���.htm</link>
+		<category>ページを開く/アドレスを指定して開く</category>
+		<link>NetReader3/ページを開く/アドレスを指定して開く.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/�����N�̑���</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�����N�̑���.htm</link>
+		<category>ページを開く/ページを探して開く</category>
+		<link>NetReader3/ページを開く/ページを探して開く.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/���ߍ��݉摜�̕\��</category>
-		<link>NetReader3/�y�[�W�̑��� ����/���ߍ��݉摜�̕\��.htm</link>
+		<category>ページを開く/お気に入りから開く</category>
+		<link>NetReader3/ページを開く/お気に入りから開く.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/�y�[�W���e�̏����o��</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�y�[�W���e�̏����o��.htm</link>
+		<category>ページを開く/過去に開いたページを開く</category>
+		<link>NetReader3/ページを開く/過去に開いたページを開く.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/�t�H�[���̑���</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�t�H�[���̑���.htm</link>
+		<category>ページを開く/最近開いたページを開く</category>
+		<link>NetReader3/ページを開く/最近開いたページを開く.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/�y�[�W���ŐV�ɍX�V</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�y�[�W���ŐV�ɍX�V.htm</link>
+		<category>ページを開く/ホームを開く</category>
+		<link>NetReader3/ページを開く/ホームを開く.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/��M�̒��~</category>
-		<link>NetReader3/�y�[�W�̑��� ����/��M�̒��~.htm</link>
+		<category>ページを開く/新しいネットリーダーで開く</category>
+		<link>NetReader3/ページを開く/新しいネットリーダーで開く.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� ����/�p���y�[�W�̖|��</category>
-		<link>NetReader3/�y�[�W�̑��� ����/�p���y�[�W�̖|��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� ����/���f�B�A�I�u�W�F�N�g�̑���</category>
-		<link>NetReader3/�y�[�W�̑��� ����/���f�B�A�I�u�W�F�N�g�̑���.htm</link>
+		<category>ページを開く/クイックアクセス</category>
+		<link>NetReader3/ページを開く/クイックアクセス.htm</link>
 	</item>
 
 
 	<item>
-		<category>�y�[�W�̑��� �㋉/�v���p�e�B</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�v���p�e�B.htm</link>
+		<category>ページの操作 初級/基本的なカーソル移動</category>
+		<link>NetReader3/ページの操作 初級/基本的なカーソル移動.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� �㋉/���K�\������</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/���K�\������.htm</link>
+		<category>ページの操作 初級/リンクの操作</category>
+		<link>NetReader3/ページの操作 初級/リンクの操作.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̑��� �㋉/�W�����v</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�W�����v.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/�y�[�W�}�[�N</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�y�[�W�}�[�N.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/�X�}�[�g�i�r</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�X�}�[�g�i�r.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/���샂�[�h</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/���샂�[�h.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/�G���R�[�h</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�G���R�[�h.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/�}�E�X�C�x���g�ƃ}�E�X�N���b�N</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�}�E�X�C�x���g�ƃ}�E�X�N���b�N.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/�t���b�V���ƃI�u�W�F�N�g</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�t���b�V���ƃI�u�W�F�N�g.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/PDF�t�@�C��</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/PDF�t�@�C��.htm</link>
-	</item>
-	<item>
-		<category>�y�[�W�̑��� �㋉/�N�C�b�N�r���[</category>
-		<link>NetReader3/�y�[�W�̑��� �㋉/�N�C�b�N�r���[.htm</link>
+		<category>ページの操作 初級/ページ内容の読み上げ</category>
+		<link>NetReader3/ページの操作 初級/ページ内容の読み上げ.htm</link>
 	</item>
 
 
 	<item>
-		<category>�y�[�W�̓ǂݏグ/�ǂݏグ�����̎��ʉ�</category>
-		<link>NetReader3/�y�[�W�̓ǂݏグ/�ǂݏグ�����̎��ʉ�.htm</link>
+		<category>ページの操作 中級/ページ内の検索</category>
+		<link>NetReader3/ページの操作 中級/ページ内の検索.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̓ǂݏグ/�y�[�W��ǂݏグ��</category>
-		<link>NetReader3/�y�[�W�̓ǂݏグ/�y�[�W��ǂݏグ��.htm</link>
+		<category>ページの操作 中級/リンクの操作</category>
+		<link>NetReader3/ページの操作 中級/リンクの操作.htm</link>
 	</item>
 	<item>
-		<category>�y�[�W�̓ǂݏグ/�y�[�W�ǂݏグ���̑���L�[</category>
-		<link>NetReader3/�y�[�W�̓ǂݏグ/�y�[�W�ǂݏグ���̑���L�[.htm</link>
+		<category>ページの操作 中級/埋め込み画像の表示</category>
+		<link>NetReader3/ページの操作 中級/埋め込み画像の表示.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/ページ内容の書き出し</category>
+		<link>NetReader3/ページの操作 中級/ページ内容の書き出し.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/フォームの操作</category>
+		<link>NetReader3/ページの操作 中級/フォームの操作.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/ページを最新に更新</category>
+		<link>NetReader3/ページの操作 中級/ページを最新に更新.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/受信の中止</category>
+		<link>NetReader3/ページの操作 中級/受信の中止.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/英文ページの翻訳</category>
+		<link>NetReader3/ページの操作 中級/英文ページの翻訳.htm</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/メディアオブジェクトの操作</category>
+		<link>NetReader3/ページの操作 中級/メディアオブジェクトの操作.htm</link>
 	</item>
 
 
 	<item>
-		<category>���C�ɓ���/�O����</category>
-		<link>NetReader3/���C�ɓ���/�O����.htm</link>
+		<category>ページの操作 上級/プロパティ</category>
+		<link>NetReader3/ページの操作 上級/プロパティ.htm</link>
 	</item>
 	<item>
-		<category>���C�ɓ���/���C�ɓ���ɒǉ�����</category>
-		<link>NetReader3/���C�ɓ���/���C�ɓ���ɒǉ�����.htm</link>
+		<category>ページの操作 上級/正規表現検索</category>
+		<link>NetReader3/ページの操作 上級/正規表現検索.htm</link>
 	</item>
 	<item>
-		<category>���C�ɓ���/���C�ɓ���𐮗�����</category>
-		<link>NetReader3/���C�ɓ���/���C�ɓ���𐮗�����.htm</link>
+		<category>ページの操作 上級/ジャンプ</category>
+		<link>NetReader3/ページの操作 上級/ジャンプ.htm</link>
 	</item>
 	<item>
-		<category>���C�ɓ���/���C�ɓ���̃o�b�N�A�b�v</category>
-		<link>NetReader3/���C�ɓ���/���C�ɓ���̃o�b�N�A�b�v.htm</link>
-	</item>
-
-	<item>
-		<category>�摜�ƃ��f�B�A�̎g����/�摜�\���r���[�A</category>
-		<link>NetReader3/�摜�ƃ��f�B�A�̎g����/�摜�\���r���[�A.htm</link>
+		<category>ページの操作 上級/ページマーク</category>
+		<link>NetReader3/ページの操作 上級/ページマーク.htm</link>
 	</item>
 	<item>
-		<category>�摜�ƃ��f�B�A�̎g����/���f�B�A�Đ��v���[���[</category>
-		<link>NetReader3/�摜�ƃ��f�B�A�̎g����/���f�B�A�Đ��v���C���[.htm</link>
+		<category>ページの操作 上級/スマートナビ</category>
+		<link>NetReader3/ページの操作 上級/スマートナビ.htm</link>
 	</item>
 	<item>
-		<category>�摜�ƃ��f�B�A�̎g����/�摜�̖��O��ύX</category>
-		<link>NetReader3/�摜�ƃ��f�B�A�̎g����/�摜�̖��O��ύX.htm</link>
-	</item>
-
-
-	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/��ʂ̎��</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/��ʂ̎��.htm</link>
+		<category>ページの操作 上級/操作モード</category>
+		<link>NetReader3/ページの操作 上級/操作モード.htm</link>
 	</item>
 	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/��ʂ̊g��</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/��ʂ̊g��.htm</link>
+		<category>ページの操作 上級/エンコード</category>
+		<link>NetReader3/ページの操作 上級/エンコード.htm</link>
 	</item>
 	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�{���I�v�V����</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�{���I�v�V����.htm</link>
+		<category>ページの操作 上級/マウスイベントとマウスクリック</category>
+		<link>NetReader3/ページの操作 上級/マウスイベントとマウスクリック.htm</link>
 	</item>
 	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�ǂݏグ�I�v�V����</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�ǂݏグ�I�v�V����.htm</link>
+		<category>ページの操作 上級/フラッシュとオブジェクト</category>
+		<link>NetReader3/ページの操作 上級/フラッシュとオブジェクト.htm</link>
 	</item>
 	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�\���I�v�V����</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�\���I�v�V����.htm</link>
+		<category>ページの操作 上級/PDFファイル</category>
+		<link>NetReader3/ページの操作 上級/PDFファイル.htm</link>
 	</item>
 	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�z�[���̓o�^�ƕύX</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�z�[���̓o�^�ƕύX.htm</link>
-	</item>
-	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�C���^�[�l�b�g�I�v�V����</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�C���^�[�l�b�g�I�v�V����.htm</link>
-	</item>
-	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�W���̃u���E�U�ɂ���</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�W���̃u���E�U�ɂ���.htm</link>
-	</item>
-	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/IE�݊� �n�C���x����ۂ�</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/IE�݊��n�C���x����ۂ�.htm</link>
-	</item>
-	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�����ʒm</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�����ʒm.htm</link>
-	</item>
-	<item>
-		<category>���[�U�[�⏕�Ɗ��ݒ�/�X�}�[�g�t�H���p�̃y�[�W���J��</category>
-		<link>NetReader3/���[�U�[�⏕�Ɗ��ݒ�/�X�}�[�g�t�H���p�̃y�[�W���J��.htm</link>
+		<category>ページの操作 上級/クイックビュー</category>
+		<link>NetReader3/ページの操作 上級/クイックビュー.htm</link>
 	</item>
 
 
 	<item>
-		<category>�ێ�/���̃N���[���A�b�v</category>
-		<link>NetReader3/�ێ�/���̃N���[���A�b�v.htm</link>
+		<category>ページの読み上げ/読み上げ部分の識別音</category>
+		<link>NetReader3/ページの読み上げ/読み上げ部分の識別音.htm</link>
 	</item>
 	<item>
-		<category>�ێ�/�l�b�g���[�_�[���ŐV�ɍX�V����</category>
-		<link>NetReader3/�ێ�/�l�b�g���[�_�[���ŐV�ɍX�V����.htm</link>
+		<category>ページの読み上げ/ページを読み上げる</category>
+		<link>NetReader3/ページの読み上げ/ページを読み上げる.htm</link>
 	</item>
 	<item>
-		<category>�ێ�/�i������v���O�����ɕ񍐂���</category>
-		<link>NetReader3/�ێ�/�i������v���O�����ɕ񍐂���.htm</link>
+		<category>ページの読み上げ/ページ読み上げ中の操作キー</category>
+		<link>NetReader3/ページの読み上げ/ページ読み上げ中の操作キー.htm</link>
 	</item>
 
 
 	<item>
-		<category>�A�h�C��</category>
-		<link>NetReader3/�⑫/�A�h�C��.htm</link>
+		<category>お気に入り/前書き</category>
+		<link>NetReader3/お気に入り/前書き.htm</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りに追加する</category>
+		<link>NetReader3/お気に入り/お気に入りに追加する.htm</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りを整理する</category>
+		<link>NetReader3/お気に入り/お気に入りを整理する.htm</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りのバックアップ</category>
+		<link>NetReader3/お気に入り/お気に入りのバックアップ.htm</link>
 	</item>
 
 	<item>
-		<category>�R�}���h�ꗗ/�t���L�[�R�}���h</category>
-		<link>NetReader3/�R�}���h�ꗗ/�t���L�[�R�}���h�ꗗ.htm</link>
+		<category>画像とメディアの使い方/画像表示ビューア</category>
+		<link>NetReader3/画像とメディアの使い方/画像表示ビューア.htm</link>
 	</item>
 	<item>
-		<category>�R�}���h�ꗗ/�^�b�`�R�}���h</category>
-		<link>NetReader3/�R�}���h�ꗗ/�^�b�`�R�}���h�ꗗ.htm</link>
+		<category>画像とメディアの使い方/メディア再生プレーヤー</category>
+		<link>NetReader3/画像とメディアの使い方/メディア再生プレイヤー.htm</link>
 	</item>
 	<item>
-		<category>�R�}���h�ꗗ/�_���R�}���h</category>
-		<link>NetReader3/�R�}���h�ꗗ/�_���R�}���h�ꗗ.htm</link>
-	</item>
-	<item>
-		<category>�R�}���h�ꗗ/�T�O�I�����_���R�}���h</category>
-		<link>NetReader3/�R�}���h�ꗗ/�T�O�I�����_���R�}���h�ꗗ.htm</link>
+		<category>画像とメディアの使い方/画像の名前を変更</category>
+		<link>NetReader3/画像とメディアの使い方/画像の名前を変更.htm</link>
 	</item>
 
 
 	<item>
-		<category>�⑫/�p���`</category>
-		<link>NetReader3/�⑫/�p���`.htm</link>
+		<category>ユーザー補助と環境設定/画面の種類</category>
+		<link>NetReader3/ユーザー補助と環境設定/画面の種類.htm</link>
 	</item>
 	<item>
-		<category>�⑫/�X�V����</category>
-		<link>�X�V����.htm</link>
+		<category>ユーザー補助と環境設定/画面の拡大</category>
+		<link>NetReader3/ユーザー補助と環境設定/画面の拡大.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/閲覧オプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/閲覧オプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/読み上げオプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/読み上げオプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/表示オプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/表示オプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/ホームの登録と変更</category>
+		<link>NetReader3/ユーザー補助と環境設定/ホームの登録と変更.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/インターネットオプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/インターネットオプション.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/標準のブラウザにする</category>
+		<link>NetReader3/ユーザー補助と環境設定/標準のブラウザにする.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/IE互換 ハイレベルを保つ</category>
+		<link>NetReader3/ユーザー補助と環境設定/IE互換ハイレベルを保つ.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/自動通知</category>
+		<link>NetReader3/ユーザー補助と環境設定/自動通知.htm</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/スマートフォン用のページを開く</category>
+		<link>NetReader3/ユーザー補助と環境設定/スマートフォン用のページを開く.htm</link>
 	</item>
 
+
+	<item>
+		<category>保守/環境のクリーンアップ</category>
+		<link>NetReader3/保守/環境のクリーンアップ.htm</link>
+	</item>
+	<item>
+		<category>保守/ネットリーダーを最新に更新する</category>
+		<link>NetReader3/保守/ネットリーダーを最新に更新する.htm</link>
+	</item>
+	<item>
+		<category>保守/品質向上プログラムに報告する</category>
+		<link>NetReader3/保守/品質向上プログラムに報告する.htm</link>
+	</item>
+
+
+	<item>
+		<category>アドイン</category>
+		<link>NetReader3/補足/アドイン.htm</link>
+	</item>
+
+	<item>
+		<category>コマンド一覧/フルキーコマンド</category>
+		<link>NetReader3/コマンド一覧/フルキーコマンド一覧.htm</link>
+	</item>
+	<item>
+		<category>コマンド一覧/タッチコマンド</category>
+		<link>NetReader3/コマンド一覧/タッチコマンド一覧.htm</link>
+	</item>
+	<item>
+		<category>コマンド一覧/点字コマンド</category>
+		<link>NetReader3/コマンド一覧/点字コマンド一覧.htm</link>
+	</item>
+	<item>
+		<category>コマンド一覧/５０オン順点字コマンド</category>
+		<link>NetReader3/コマンド一覧/５０オン順点字コマンド一覧.htm</link>
+	</item>
+
+
+	<item>
+		<category>補足/Ｑ＆Ａ</category>
+		<link>NetReader3/補足/Ｑ＆Ａ.htm</link>
+	</item>
 
 </list-index>
