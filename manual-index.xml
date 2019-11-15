@@ -129,12 +129,14 @@
 		<category>ページの操作 初級/リンクの操作</category>
 		<link>NetReader3/ページの操作 初級/リンクの操作.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ページの操作 初級/ページ内容の読み上げ</category>
 		<link>NetReader3/ページの操作 初級/ページ内容の読み上げ.html</link>
 	</item>
-
-
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ページの操作 初級/ページ内容の読み上げ</category>
+		<link>NetReader3/ページの操作 初級/ページ内容の読み上げ.html</link>
+	</item>
 	<item>
 		<category>ページの操作 中級/ページ内の検索</category>
 		<link>NetReader3/ページの操作 中級/ページ内の検索.html</link>
