@@ -129,9 +129,13 @@
 		<category>ページの操作 初級/リンクの操作</category>
 		<link>NetReader3/ページの操作 初級/リンクの操作.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ページの操作 初級/ページ内容の読み上げ</category>
 		<link>NetReader3/ページの操作 初級/ページ内容の読み上げ.html</link>
+	</item>
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ページの操作 初級/ページ内容の読み上げ</category>
+		<link>NetReader3/ページの操作 初級/ページ内容の読み上げ_beta.html</link>
 	</item>
 	<item>
 		<category>ページの操作 中級/ページ内の検索</category>
@@ -179,16 +183,24 @@
 		<category>ページの操作 上級/正規表現検索</category>
 		<link>NetReader3/ページの操作 上級/正規表現検索.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ページの操作 上級/ジャンプ</category>
 		<link>NetReader3/ページの操作 上級/ジャンプ.html</link>
 	</item>
 
-	<item>
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ページの操作 上級/ジャンプ</category>
+		<link>NetReader3/ページの操作 上級/ジャンプ_beta.html</link>
+	</item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ページの操作 上級/ページマーク</category>
 		<link>NetReader3/ページの操作 上級/ページマーク.html</link>
 	</item>
 
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ページの操作 上級/ページマーク</category>
+		<link>NetReader3/ページの操作 上級/ページマーク_beta.html</link>
+	</item>
 	<item>
 		<category>ページの操作 上級/スマートナビ</category>
 		<link>NetReader3/ページの操作 上級/スマートナビ.html</link>
@@ -329,11 +341,15 @@
 		<link>NetReader3/補足/アドイン.html</link>
 	</item>
 
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>コマンド一覧/フルキーコマンド</category>
 		<link>NetReader3/コマンド一覧/フルキーコマンド一覧.html</link>
 	</item>
 
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>コマンド一覧/フルキーコマンド</category>
+		<link>NetReader3/コマンド一覧/フルキーコマンド一覧_beta.html</link>
+	</item>
 	<item>
 		<category>コマンド一覧/タッチコマンド</category>
 		<link>NetReader3/コマンド一覧/タッチコマンド一覧.html</link>
@@ -347,10 +363,10 @@
 		<link>NetReader3/コマンド一覧/５０オン順点字コマンド一覧.html</link>
 	</item>
 
-	<!-- <item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>補足/ネットリーダーⅡとの違い</category>
 		<link>NetReader3/補足/ネットリーダー2との違い.html</link>
-	</item> -->
+	</item>
 
 	<item>
 		<category>補足/Ｑ＆Ａ</category>
