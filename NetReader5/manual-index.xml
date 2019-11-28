@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+
+	<title>NetReader ネオモードマニュアル</title>
+	<linkBase />
+	<item>
+		<category>ネオモードのご紹介</category>
+		<link>ネオモードのご紹介.html</link>
+	</item>
+
+	<item>
+		<category>コマンド一覧/フルキーコマンド</category>
+		<link>コマンド一覧/フルキーコマンド一覧.html</link>
+	</item>
+
+	<item>
+		<category>コマンド一覧/点字コマンド</category>
+		<link>コマンド一覧/点字コマンド一覧.html</link>
+	</item>
+
+</list-index>
