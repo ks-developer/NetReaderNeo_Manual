@@ -364,7 +364,7 @@
 	</item>
 
 	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>補足/ネットリーダーⅡとの違い</category>
+		<category>補足/ネットリーダーⅡとクラシックモードの違い</category>
 		<link>NetReader3/補足/ネットリーダー2との違い.html</link>
 	</item>
 
