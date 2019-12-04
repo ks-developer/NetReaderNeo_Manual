@@ -205,9 +205,13 @@
 		<category>ページの操作 上級/スマートナビ</category>
 		<link>NetReader3/ページの操作 上級/スマートナビ.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ページの操作 上級/操作モード</category>
 		<link>NetReader3/ページの操作 上級/操作モード.html</link>
+	</item>
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ページの操作 上級/操作モード</category>
+		<link>NetReader3/ページの操作 上級/操作モード_beta.html</link>
 	</item>
 	<item>
 		<category>ページの操作 上級/エンコード</category>
@@ -354,13 +358,21 @@
 		<category>コマンド一覧/タッチコマンド</category>
 		<link>NetReader3/コマンド一覧/タッチコマンド一覧.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>コマンド一覧/点字コマンド</category>
 		<link>NetReader3/コマンド一覧/点字コマンド一覧.html</link>
 	</item>
-	<item>
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>コマンド一覧/点字コマンド</category>
+		<link>NetReader3/コマンド一覧/点字コマンド一覧_beta.html</link>
+	</item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>コマンド一覧/５０オン順点字コマンド</category>
 		<link>NetReader3/コマンド一覧/５０オン順点字コマンド一覧.html</link>
+	</item>
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>コマンド一覧/５０オン順点字コマンド</category>
+		<link>NetReader3/コマンド一覧/５０オン順点字コマンド一覧_beta.html</link>
 	</item>
 
 	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
