@@ -2,7 +2,7 @@
 <list-index xmlns="http://www.aok-net.com/list-index">
 
 	<title>NetReader ネオモードマニュアル</title>
-	<linkBase />
+	<linkBase/>
 	<item>
 		<category>ネオモードのご紹介</category>
 		<link>ネオモードのご紹介.html</link>
@@ -21,6 +21,11 @@
 	<item>
 		<category>ユーザー補助と環境設定/閲覧オプション</category>
 		<link>ユーザー補助と環境設定/閲覧オプション.html</link>
+	</item>
+
+	<item>
+		<category>ユーザー補助と環境設定/起動オプション</category>
+		<link>../Common/起動オプション.html</link>
 	</item>
 
 	<item>
