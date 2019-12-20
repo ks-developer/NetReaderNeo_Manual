@@ -300,6 +300,11 @@
 		<category>ユーザー補助と環境設定/表示オプション</category>
 		<link>NetReader3/ユーザー補助と環境設定/表示オプション.html</link>
 	</item>
+		<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ユーザー補助と環境設定/起動オプション</category>
+		<link>Common/起動オプション.html</link>
+	</item>
+
 	<item>
 		<category>ユーザー補助と環境設定/ホームの登録と変更</category>
 		<link>NetReader3/ユーザー補助と環境設定/ホームの登録と変更.html</link>
@@ -308,7 +313,7 @@
 		<category>ユーザー補助と環境設定/インターネットオプション</category>
 		<link>NetReader3/ユーザー補助と環境設定/インターネットオプション.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ユーザー補助と環境設定/標準のブラウザにする</category>
 		<link>NetReader3/ユーザー補助と環境設定/標準のブラウザにする.html</link>
 	</item>
