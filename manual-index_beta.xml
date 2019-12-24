@@ -3,6 +3,7 @@
 
 	<title>NetReader マニュアル</title>
 	<linkBase />
+	
 
 	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>更新情報</category>
