@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <list-index xmlns="http://www.aok-net.com/list-index">
 
-	<title>NetReader マニュアル</title>
+	<title>NetReaderマニュアル</title>
 	<linkBase />
-	
+
 
 	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>更新情報</category>
