@@ -118,6 +118,15 @@
 	</item>
 
 	<item>
+		<category>ユーザー補助と環境設定/画面の種類</category>
+		<link>ユーザー補助と環境設定/画面.html</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/画面の拡大</category>
+		<link>ユーザー補助と環境設定/画面の拡大.html</link>
+	</item>
+
+	<item>
 		<category>ユーザー補助と環境設定/閲覧オプション</category>
 		<link>ユーザー補助と環境設定/閲覧オプション.html</link>
 	</item>
@@ -125,6 +134,19 @@
 	<item>
 		<category>ユーザー補助と環境設定/起動オプション</category>
 		<link>../Common/起動オプション.html</link>
+	</item>
+
+	<item>
+		<category>保守/環境のクリーンアップ</category>
+		<link>保守/環境のクリーンアップ.html</link>
+	</item>
+	<item>
+		<category>保守/ネットリーダーを最新に更新する</category>
+		<link>保守/ネットリーダーを最新に更新する.html</link>
+	</item>
+	<item>
+		<category>保守/品質向上プログラムに報告する</category>
+		<link>保守/品質向上プログラムに報告する.html</link>
 	</item>
 
 	<item>
