@@ -9,6 +9,71 @@
 	</item>
 
 	<item>
+		<category>ページの操作 初級/基本的なカーソル移動</category>
+		<link>ページの操作 初級/基本的なカーソル移動.html</link>
+	</item>
+	<item>
+		<category>ページの操作 初級/リンクの操作</category>
+		<link>ページの操作 初級/リンクの操作.html</link>
+	</item>
+	<item>
+		<category>ページの操作 初級/ページ内容の読み上げ</category>
+		<link>ページの操作 初級/ページ内容の読み上げ.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/ページ内の検索</category>
+		<link>ページの操作 中級/ページ内の検索.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/リンクの操作</category>
+		<link>ページの操作 中級/リンクの操作.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/ページ内容の書き出し</category>
+		<link>ページの操作 中級/ページ内容の書き出し.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/フォームの操作</category>
+		<link>ページの操作 中級/フォームの操作.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/ページを最新に更新</category>
+		<link>ページの操作 中級/ページを最新に更新.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/受信の中止</category>
+		<link>ページの操作 中級/受信の中止.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/英文ページの翻訳</category>
+		<link>ページの操作 中級/英文ページの翻訳.html</link>
+	</item>
+	<item>
+		<category>ページの操作 中級/メディアオブジェクトの操作</category>
+		<link>ページの操作 中級/メディアオブジェクトの操作.html</link>
+	</item>
+
+	<item>
+		<category>ページの操作 上級/プロパティ</category>
+		<link>ページの操作 上級/プロパティ.html</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/正規表現検索</category>
+		<link>ページの操作 上級/正規表現検索.html</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/ジャンプ</category>
+		<link>ページの操作 上級/ジャンプ.html</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/ページマーク</category>
+		<link>ページの操作 上級/ページマーク.html</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/スマートナビ</category>
+		<link>ページの操作 上級/スマートナビ.html</link>
+	</item>
+	<item>
 		<category>ページの操作 上級/操作モード</category>
 		<link>ページの操作上級/操作モード.html</link>
 	</item>
@@ -16,6 +81,40 @@
 	<item>
 		<category>ページの操作 上級/PDFファイル</category>
 		<link>ページの操作上級/PDFファイル.html</link>
+	</item>
+	<item>
+		<category>ページの操作 上級/クイックビュー</category>
+		<link>ページの操作 上級/クイックビュー.html</link>
+	</item>
+
+	<item>
+		<category>ページの読み上げ/読み上げ部分の識別音</category>
+		<link>../Common/ページの読み上げ/読み上げ部分の識別音.html</link>
+	</item>
+	<item>
+		<category>ページの読み上げ/ページを読み上げる</category>
+		<link>../Common/ページの読み上げ/ページを読み上げる.html</link>
+	</item>
+	<item>
+		<category>ページの読み上げ/ページ読み上げ中の操作キー</category>
+		<link>../Common/ページの読み上げ/ページ読み上げ中の操作キー.html</link>
+	</item>
+
+	<item>
+		<category>お気に入り/前書き</category>
+		<link>../Common/お気に入り/前書き.html</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りに追加する</category>
+		<link>../Common/お気に入り/お気に入りに追加する.html</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りを整理する</category>
+		<link>../Common/お気に入り/お気に入りを整理する.html</link>
+	</item>
+	<item>
+		<category>お気に入り/お気に入りのバックアップ</category>
+		<link>../Common/お気に入り/お気に入りのバックアップ.html</link>
 	</item>
 
 	<item>
