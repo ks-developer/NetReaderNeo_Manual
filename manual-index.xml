@@ -26,98 +26,98 @@
 
 	<item>
 		<category>品質向上プログラムについて</category>
-		<link>NetReader3/はじめに/品質向上プログラムについて.html</link>
+		<link>Common/はじめに/品質向上プログラムについて.html</link>
 	</item>
 
 	<item>
 		<category>はじめに/ネットリーダーの動作環境</category>
-		<link>NetReader3/はじめに/ネットリーダーの動作環境.html</link>
+		<link>Common/はじめに/ネットリーダーの動作環境.html</link>
 	</item>
 	<item>
 		<category>はじめに/マニュアルの表記について</category>
-		<link>NetReader3/はじめに/マニュアルの表記について.html</link>
+		<link>Common/はじめに/マニュアルの表記について.html</link>
 	</item>
 	<item>
 		<category>はじめに/マニュアルの読み上げ方について</category>
-		<link>NetReader3/はじめに/マニュアルの読み上げ方について.html</link>
+		<link>Common/はじめに/マニュアルの読み上げ方について.html</link>
 	</item>
 	<item>
 		<category>はじめに/著作権について</category>
-		<link>NetReader3/はじめに/著作権について.html</link>
+		<link>Common/はじめに/著作権について.html</link>
 	</item>
 	<item>
 		<category>はじめに/墨字マニュアルと点字コマンド表の紹介</category>
-		<link>NetReader3/はじめに/墨字マニュアルと点字コマンド表の紹介.html</link>
+		<link>Common/はじめに/墨字マニュアルと点字コマンド表の紹介.html</link>
 	</item>
 
 
 	<item>
 		<category>インターネットを始める前に/インターネットへの接続</category>
-		<link>NetReader3/インターネットを始める前に/インターネットへの接続.html</link>
+		<link>Common/インターネットを始める前に/インターネットへの接続.html</link>
 	</item>
 	<item>
 		<category>インターネットを始める前に/インターネット用語と本マニュアルの表記</category>
-		<link>NetReader3/インターネットを始める前に/インターネット用語と本マニュアルの表記.html</link>
+		<link>Common/インターネットを始める前に/インターネット用語と本マニュアルの表記.html</link>
 	</item>
 	<item>
 		<category>インターネットを始める前に/ネットリーダーの起動と終了</category>
-		<link>NetReader3/インターネットを始める前に/ネットリーダーの起動と終了.html</link>
+		<link>Common/インターネットを始める前に/ネットリーダーの起動と終了.html</link>
 	</item>
 	<item>
 		<category>インターネットを始める前に/初めて起動したときのスタート画面</category>
-		<link>NetReader3/インターネットを始める前に/初めて起動したときのスタート画面.html</link>
+		<link>Common/インターネットを始める前に/初めて起動したときのスタート画面.html</link>
 	</item>
 
 
 	<item>
 		<category>はじめてのインターネット/前書き</category>
-		<link>NetReader3/はじめてのインターネット/前書き.html</link>
+		<link>Common/はじめてのインターネット/前書き.html</link>
 	</item>
 	<item>
 		<category>はじめてのインターネット/ページを開いてみる</category>
-		<link>NetReader3/はじめてのインターネット/ページを開いてみる.html</link>
+		<link>Common/はじめてのインターネット/ページを開いてみる.html</link>
 	</item>
 	<item>
 		<category>はじめてのインターネット/開いたページの内容を確認する</category>
-		<link>NetReader3/はじめてのインターネット/開いたページの内容を確認する.html</link>
+		<link>Common/はじめてのインターネット/開いたページの内容を確認する.html</link>
 	</item>
 	<item>
 		<category>はじめてのインターネット/次に知りたいページを開く</category>
-		<link>NetReader3/はじめてのインターネット/次に知りたいページを開く.html</link>
+		<link>Common/はじめてのインターネット/次に知りたいページを開く.html</link>
 	</item>
 
 
 	<item>
 		<category>ページを開く/アドレスを指定して開く</category>
-		<link>NetReader3/ページを開く/アドレスを指定して開く.html</link>
+		<link>Common/ページを開く/アドレスを指定して開く.html</link>
 	</item>
 	<item>
 		<category>ページを開く/ページを探して開く</category>
-		<link>NetReader3/ページを開く/ページを探して開く.html</link>
+		<link>Common/ページを開く/ページを探して開く.html</link>
 	</item>
 	<item>
 		<category>ページを開く/お気に入りから開く</category>
-		<link>NetReader3/ページを開く/お気に入りから開く.html</link>
+		<link>Common/ページを開く/お気に入りから開く.html</link>
 	</item>
 	<item>
 		<category>ページを開く/過去に開いたページを開く</category>
-		<link>NetReader3/ページを開く/過去に開いたページを開く.html</link>
+		<link>Common/ページを開く/過去に開いたページを開く.html</link>
 	</item>
 	<item>
 		<category>ページを開く/最近開いたページを開く</category>
-		<link>NetReader3/ページを開く/最近開いたページを開く.html</link>
+		<link>Common/ページを開く/最近開いたページを開く.html</link>
 	</item>
 	<item>
 		<category>ページを開く/ホームを開く</category>
-		<link>NetReader3/ページを開く/ホームを開く.html</link>
+		<link>Common/ページを開く/ホームを開く.html</link>
 	</item>
 	<item>
 		<category>ページを開く/新しいネットリーダーで開く</category>
-		<link>NetReader3/ページを開く/新しいネットリーダーで開く.html</link>
+		<link>Common/ページを開く/新しいネットリーダーで開く.html</link>
 	</item>
 	<item>
 		<category>ページを開く/クイックアクセス</category>
-		<link>NetReader3/ページを開く/クイックアクセス.html</link>
+		<link>Common/ページを開く/クイックアクセス.html</link>
 	</item>
 
 
@@ -237,33 +237,33 @@
 
 	<item>
 		<category>ページの読み上げ/読み上げ部分の識別音</category>
-		<link>NetReader3/ページの読み上げ/読み上げ部分の識別音.html</link>
+		<link>Common/ページの読み上げ/読み上げ部分の識別音.html</link>
 	</item>
 	<item>
 		<category>ページの読み上げ/ページを読み上げる</category>
-		<link>NetReader3/ページの読み上げ/ページを読み上げる.html</link>
+		<link>Common/ページの読み上げ/ページを読み上げる.html</link>
 	</item>
 	<item>
 		<category>ページの読み上げ/ページ読み上げ中の操作キー</category>
-		<link>NetReader3/ページの読み上げ/ページ読み上げ中の操作キー.html</link>
+		<link>Common/ページの読み上げ/ページ読み上げ中の操作キー.html</link>
 	</item>
 
 
 	<item>
 		<category>お気に入り/前書き</category>
-		<link>NetReader3/お気に入り/前書き.html</link>
+		<link>Common/お気に入り/前書き.html</link>
 	</item>
 	<item>
 		<category>お気に入り/お気に入りに追加する</category>
-		<link>NetReader3/お気に入り/お気に入りに追加する.html</link>
+		<link>Common/お気に入り/お気に入りに追加する.html</link>
 	</item>
 	<item>
 		<category>お気に入り/お気に入りを整理する</category>
-		<link>NetReader3/お気に入り/お気に入りを整理する.html</link>
+		<link>Common/お気に入り/お気に入りを整理する.html</link>
 	</item>
 	<item>
 		<category>お気に入り/お気に入りのバックアップ</category>
-		<link>NetReader3/お気に入り/お気に入りのバックアップ.html</link>
+		<link>Common/お気に入り/お気に入りのバックアップ.html</link>
 	</item>
 
 	<item>

@@ -3,6 +3,26 @@
 
 	<title>NetReader ネオモードマニュアル</title>
 	<linkBase/>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>更新情報</category>
+		<link>../更新情報.html</link>
+	</item>
+
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ベータ版更新情報</category>
+		<link>../ベータ版更新情報.html</link>
+	</item>
+
+	<item target="beta">
+		<category>過去の更新履歴(サポート用)</category>
+		<link>../更新履歴.html</link>
+	</item>
+
+	<item target="nonet">
+		<category>過去の更新履歴</category>
+		<link>../更新履歴.html</link>
+	</item>
+
 	<item>
 		<category>ネオモードのご紹介</category>
 		<link>ネオモードのご紹介.html</link>
