@@ -132,8 +132,22 @@
 	</item>
 
 	<item>
+		<category>ユーザー補助と環境設定/読み上げオプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/読み上げオプション.html</link>
+	</item>
+
+	<item>
 		<category>ユーザー補助と環境設定/起動オプション</category>
 		<link>../Common/起動オプション.html</link>
+	</item>
+
+	<item>
+		<category>ユーザー補助と環境設定/ホームの登録と変更</category>
+		<link>ユーザー補助と環境設定/ホームの登録と変更.html</link>
+	</item>
+	<item>
+		<category>ユーザー補助と環境設定/スマートフォン用のページを開く</category>
+		<link>ユーザー補助と環境設定/スマートフォン用のページを開く.html</link>
 	</item>
 
 	<item>
