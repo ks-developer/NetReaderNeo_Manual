@@ -121,6 +121,7 @@
 	</item>
 
 
+
 	<item>
 		<category>ページの操作 初級/基本的なカーソル移動</category>
 		<link>NetReader3/ページの操作 初級/基本的なカーソル移動.html</link>
@@ -300,7 +301,7 @@
 		<category>ユーザー補助と環境設定/表示オプション</category>
 		<link>NetReader3/ユーザー補助と環境設定/表示オプション.html</link>
 	</item>
-		<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ユーザー補助と環境設定/起動オプション</category>
 		<link>Common/起動オプション.html</link>
 	</item>
