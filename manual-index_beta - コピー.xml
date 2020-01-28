@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list-index xmlns="http://www.aok-net.com/list-index">
+
+	<title>NetReader マニュアル</title>
+	<linkBase />
+
+
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>更新情報</category>
+		<link>更新情報.html</link>
+	</item>
+
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ベータ版更新情報</category>
+		<link>ベータ版更新情報.html</link>
+	</item>
+
+	<item target="beta">
+		<category>過去の更新履歴(サポート用)</category>
+		<link>更新履歴.html</link>
+	</item>
+
+	<item target="nonet">
+		<category>過去の更新履歴</category>
+		<link>更新履歴.html</link>
+	</item>
+
+	<item>
+		<category>品質向上プログラムについて</category>
+		<link>NetReader3/はじめに/品質向上プログラムについて.html</link>
+	</item>
+
+	<item>
+		<category>インターネットを始める前に/インターネットへの接続</category>
+		<link>Common/インターネットを始める前に/インターネットへの接続.html</link>
+	</item>
+	<item>
+		<category>インターネットを始める前に/インターネット用語と本マニュアルの表記</category>
+		<link>Common/インターネットを始める前に/インターネット用語と本マニュアルの表記.html</link>
+	</item>
+	<item>
+		<category>インターネットを始める前に/ネットリーダーの起動と終了</category>
+		<link>Common/インターネットを始める前に/ネットリーダーの起動と終了.html</link>
+	</item>
+	<item>
+		<category>インターネットを始める前に/初めて起動したときのスタート画面</category>
+		<link>Common/インターネットを始める前に/初めて起動したときのスタート画面.html</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/前書き</category>
+		<link>Common/はじめてのインターネット/前書き.html</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/ページを開いてみる</category>
+		<link>Common/はじめてのインターネット/ページを開いてみる.html</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/開いたページの内容を確認する</category>
+		<link>Common/はじめてのインターネット/開いたページの内容を確認する.html</link>
+	</item>
+	<item>
+		<category>はじめてのインターネット/次に知りたいページを開く</category>
+		<link>Common/はじめてのインターネット/次に知りたいページを開く.html</link>
+	</item>
+
+	<item>
+		<category>ページを開く/アドレスを指定して開く</category>
+		<link>Common/ページを開く/アドレスを指定して開く.html</link>
+	</item>
+	<item>
+		<category>ページを開く/ページを探して開く</category>
+		<link>Common/ページを開く/ページを探して開く.html</link>
+	</item>
+	<item>
+		<category>ページを開く/お気に入りから開く</category>
+		<link>Common/ページを開く/お気に入りから開く.html</link>
+	</item>
+	<item>
+		<category>ページを開く/過去に開いたページを開く</category>
+		<link>Common/ページを開く/過去に開いたページを開く.html</link>
+	</item>
+	<item>
+		<category>ページを開く/最近開いたページを開く</category>
+		<link>Common/ページを開く/最近開いたページを開く.html</link>
+	</item>
+	<item>
+		<category>ページを開く/ホームを開く</category>
+		<link>Common/ページを開く/ホームを開く.html</link>
+	</item>
+	<item>
+		<category>ページを開く/新しいネットリーダーで開く</category>
+		<link>Common/ページを開く/新しいネットリーダーで開く.html</link>
+	</item>
+	<item>
+		<category>ページを開く/クイックアクセス</category>
+		<link>Common/ページを開く/クイックアクセス.html</link>
+	</item>
+	<item>
+		<category>クラシックモードと ネオモードについて</category>
+		<link>クラシックモードとネオモード.html</link>
+	</item>
+
+	<!--- クラシックモードマニュアル -->
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 初級/基本的なカーソル移動</category>
+		<link>NetReader3/ページの操作 初級/基本的なカーソル移動.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 初級/リンクの操作</category>
+		<link>NetReader3/ページの操作 初級/リンクの操作.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 初級/ページ内容の読み上げ</category>
+		<link>NetReader3/ページの操作 初級/ページ内容の読み上げ.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/ページ内の検索</category>
+		<link>NetReader3/ページの操作 中級/ページ内の検索.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/リンクの操作</category>
+		<link>NetReader3/ページの操作 中級/リンクの操作.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/埋め込み画像の表示</category>
+		<link>NetReader3/ページの操作 中級/埋め込み画像の表示.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/ページ内容の書き出し</category>
+		<link>NetReader3/ページの操作 中級/ページ内容の書き出し.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/フォームの操作</category>
+		<link>NetReader3/ページの操作 中級/フォームの操作.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/ページを最新に更新</category>
+		<link>NetReader3/ページの操作 中級/ページを最新に更新.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/受信の中止</category>
+		<link>NetReader3/ページの操作 中級/受信の中止.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/英文ページの翻訳</category>
+		<link>NetReader3/ページの操作 中級/英文ページの翻訳.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 中級/メディアオブジェクトの操作</category>
+		<link>NetReader3/ページの操作 中級/メディアオブジェクトの操作.html</link>
+	</item>
+
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/プロパティ</category>
+		<link>NetReader3/ページの操作 上級/プロパティ.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/正規表現検索</category>
+		<link>NetReader3/ページの操作 上級/正規表現検索.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/ジャンプ</category>
+		<link>NetReader3/ページの操作 上級/ジャンプ.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/ページマーク</category>
+		<link>NetReader3/ページの操作 上級/ページマーク.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/スマートナビ</category>
+		<link>NetReader3/ページの操作 上級/スマートナビ.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/操作モード</category>
+		<link>NetReader3/ページの操作 上級/操作モード.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/エンコード</category>
+		<link>NetReader3/ページの操作 上級/エンコード.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/マウスイベントとマウスクリック</category>
+		<link>NetReader3/ページの操作 上級/マウスイベントとマウスクリック.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/フラッシュとオブジェクト</category>
+		<link>NetReader3/ページの操作 上級/フラッシュとオブジェクト.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/PDFファイル</category>
+		<link>NetReader3/ページの操作 上級/PDFファイル.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの操作 上級/クイックビュー</category>
+		<link>NetReader3/ページの操作 上級/クイックビュー.html</link>
+	</item>
+
+	<item>
+		<category>クラシックモード マニュアル/ページの読み上げ/読み上げ部分の識別音</category>
+		<link>NetReader3/ページの読み上げ/読み上げ部分の識別音.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの読み上げ/ページを読み上げる</category>
+		<link>NetReader3/ページの読み上げ/ページを読み上げる.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ページの読み上げ/ページ読み上げ中の操作キー</category>
+		<link>NetReader3/ページの読み上げ/ページ読み上げ中の操作キー.html</link>
+	</item>
+
+
+	<item>
+		<category>クラシックモード マニュアル/お気に入り/前書き</category>
+		<link>Common/お気に入り/前書き.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/お気に入り/お気に入りに追加する</category>
+		<link>Common/お気に入り/お気に入りに追加する.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/お気に入り/お気に入りを整理する</category>
+		<link>Common/お気に入り/お気に入りを整理する.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/お気に入り/お気に入りのバックアップ</category>
+		<link>Common/お気に入り/お気に入りのバックアップ.html</link>
+	</item>
+
+	<item>
+		<category>クラシックモード マニュアル/画像とメディアの使い方/画像表示ビューア</category>
+		<link>NetReader3/画像とメディアの使い方/画像表示ビューア.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/画像とメディアの使い方/メディア再生プレーヤー</category>
+		<link>NetReader3/画像とメディアの使い方/メディア再生プレイヤー.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/画像とメディアの使い方/画像の名前を変更</category>
+		<link>NetReader3/画像とメディアの使い方/画像の名前を変更.html</link>
+	</item>
+
+
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/画面の種類</category>
+		<link>NetReader3/ユーザー補助と環境設定/画面の種類.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/画面の拡大</category>
+		<link>NetReader3/ユーザー補助と環境設定/画面の拡大.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/閲覧オプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/閲覧オプション.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/読み上げオプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/読み上げオプション.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/表示オプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/表示オプション.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/起動オプション</category>
+		<link>Common/起動オプション.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/ホームの登録と変更</category>
+		<link>NetReader3/ユーザー補助と環境設定/ホームの登録と変更.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/インターネットオプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/インターネットオプション.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/IE互換 ハイレベルを保つ</category>
+		<link>NetReader3/ユーザー補助と環境設定/IE互換ハイレベルを保つ.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/自動通知</category>
+		<link>NetReader3/ユーザー補助と環境設定/自動通知.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/ユーザー補助と環境設定/スマートフォン用のページを開く</category>
+		<link>NetReader3/ユーザー補助と環境設定/スマートフォン用のページを開く.html</link>
+	</item>
+
+
+	<item>
+		<category>クラシックモード マニュアル/保守/環境のクリーンアップ</category>
+		<link>NetReader3/保守/環境のクリーンアップ.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/保守/ネットリーダーを最新に更新する</category>
+		<link>NetReader3/保守/ネットリーダーを最新に更新する.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/保守/品質向上プログラムに報告する</category>
+		<link>NetReader3/保守/品質向上プログラムに報告する.html</link>
+	</item>
+
+
+	<item>
+		<category>クラシックモード マニュアル/アドイン</category>
+		<link>NetReader3/補足/アドイン.html</link>
+	</item>
+
+	<item>
+		<category>クラシックモード マニュアル/コマンド一覧/フルキーコマンド</category>
+		<link>NetReader3/コマンド一覧/フルキーコマンド一覧.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/コマンド一覧/タッチコマンド</category>
+		<link>NetReader3/コマンド一覧/タッチコマンド一覧.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/コマンド一覧/点字コマンド</category>
+		<link>NetReader3/コマンド一覧/点字コマンド一覧.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/コマンド一覧/５０オン順点字コマンド</category>
+		<link>NetReader3/コマンド一覧/５０オン順点字コマンド一覧.html</link>
+	</item>
+
+	<item>
+		<category>クラシックモード マニュアル/補足/ネットリーダーⅡとの違い</category>
+		<link>NetReader3/補足/ネットリーダー2との違い.html</link>
+	</item>
+	<item>
+		<category>クラシックモード マニュアル/補足/Ｑ＆Ａ</category>
+		<link>NetReader3/補足/Ｑ＆Ａ.html</link>
+	</item>
+
+	<!--- 以降ネオモードマニュアル -->
+	<item>
+		<category>ネオモード マニュアル/ネオモードのご紹介</category>
+		<link>NetReader5/ネオモードのご紹介.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ページの操作 初級/基本的なカーソル移動</category>
+		<link>NetReader5/ページの操作初級/基本的なカーソル移動.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 初級/リンクの操作</category>
+		<link>NetReader5/ページの操作初級/リンクの操作.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 初級/ページ内容の読み上げ</category>
+		<link>NetReader5/ページの操作初級/ページ内容の読み上げ.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/ページ内の検索</category>
+		<link>NetReader5/ページの操作中級/ページ内の検索.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/リンクの操作</category>
+		<link>NetReader5/ページの操作中級/リンクの操作.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/タブの操作</category>
+		<link>NetReader5/ページの操作中級/タブの操作.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/ページ内容の書き出し</category>
+		<link>NetReader5/ページの操作中級/ページ内容の書き出し.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/フォームの操作</category>
+		<link>NetReader5/ページの操作中級/フォームの操作.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/ページを最新に更新</category>
+		<link>NetReader5/ページの操作中級/ページを最新に更新.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/受信の中止</category>
+		<link>NetReader5/ページの操作中級/受信の中止.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/英文ページの翻訳</category>
+		<link>NetReader5/ページの操作中級/英文ページの翻訳.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 中級/メディアオブジェクトの操作</category>
+		<link>NetReader5/ページの操作中級/メディアオブジェクトの操作.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/プロパティ</category>
+		<link>NetReader5/ページの操作上級/プロパティ.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/正規表現検索</category>
+		<link>NetReader5/ページの操作上級/正規表現検索.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/ジャンプ</category>
+		<link>NetReader5/ページの操作上級/ジャンプ.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/ページマーク</category>
+		<link>NetReader5/ページの操作上級/ページマーク.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/スマートナビ</category>
+		<link>NetReader5/ページの操作上級/スマートナビ.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/操作モード</category>
+		<link>NetReader5/ページの操作上級/操作モード.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/PDFファイル</category>
+		<link>NetReader5/ページの操作上級/PDFファイル.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの操作 上級/クイックビュー</category>
+		<link>NetReader5/ページの操作上級/クイックビュー.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ページの読み上げ/読み上げ部分の識別音</category>
+		<link>NetReader5/ページの読み上げ/読み上げ部分の識別音.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの読み上げ/ページを読み上げる</category>
+		<link>NetReader5/ページの読み上げ/ページを読み上げる.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ページの読み上げ/ページ読み上げ中の操作キー</category>
+		<link>NetReader5/ページの読み上げ/ページ読み上げ中の操作キー.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/お気に入り/前書き</category>
+		<link>Common/お気に入り/前書き.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/お気に入り/お気に入りに追加する</category>
+		<link>Common/お気に入り/お気に入りに追加する.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/お気に入り/お気に入りを整理する</category>
+		<link>Common/お気に入り/お気に入りを整理する.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/お気に入り/お気に入りのバックアップ</category>
+		<link>Common/お気に入り/お気に入りのバックアップ.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ユーザー補助と環境設定/画面の種類</category>
+		<link>NetReader5/ユーザー補助と環境設定/画面.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ユーザー補助と環境設定/画面の拡大</category>
+		<link>NetReader5/ユーザー補助と環境設定/画面の拡大.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ユーザー補助と環境設定/閲覧オプション</category>
+		<link>NetReader5/ユーザー補助と環境設定/閲覧オプション.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ユーザー補助と環境設定/読み上げオプション</category>
+		<link>NetReader5/ユーザー補助と環境設定/読み上げオプション.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ユーザー補助と環境設定/起動オプション</category>
+		<link>Common/起動オプション.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/ユーザー補助と環境設定/ホームの登録と変更</category>
+		<link>NetReader5/ユーザー補助と環境設定/ホームの登録と変更.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/ユーザー補助と環境設定/スマートフォン用のページを開く</category>
+		<link>NetReader5/ユーザー補助と環境設定/スマートフォン用のページを開く.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/保守/環境のクリーンアップ</category>
+		<link>NetReader5/保守/環境のクリーンアップ.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/保守/ネットリーダーを最新に更新する</category>
+		<link>NetReader5/保守/ネットリーダーを最新に更新する.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/保守/品質向上プログラムに報告する</category>
+		<link>NetReader5/保守/品質向上プログラムに報告する.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/アドイン</category>
+		<link>NetReader5/ネオモード/補足/アドイン.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/コマンド一覧/フルキーコマンド</category>
+		<link>NetReader5/コマンド一覧/フルキーコマンド一覧.html</link>
+	</item>
+
+	<item>
+		<category>ネオモード マニュアル/コマンド一覧/点字コマンド</category>
+		<link>NetReader5/コマンド一覧/点字コマンド一覧.html</link>
+	</item>
+	<item>
+		<category>ネオモード マニュアル/補足/Ｑ＆Ａ</category>
+		<link>NetReader5/補足/Ｑ＆Ａ.html</link>
+	</item>
+</list-index>

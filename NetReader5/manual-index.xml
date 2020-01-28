@@ -159,6 +159,10 @@
 		<category>ユーザー補助と環境設定/読み上げオプション</category>
 		<link>ユーザー補助と環境設定/読み上げオプション.html</link>
 	</item>
+	<item>
+		<category>ユーザー補助と環境設定/表示オプション</category>
+		<link>ユーザー補助と環境設定/表示オプション.html</link>
+	</item>
 
 	<item>
 		<category>ユーザー補助と環境設定/起動オプション</category>
@@ -191,7 +195,6 @@
 		<category>アドイン</category>
 		<link>補足/アドイン.html</link>
 	</item>
-
 	<item>
 		<category>コマンド一覧/フルキーコマンド</category>
 		<link>コマンド一覧/フルキーコマンド一覧.html</link>
@@ -204,6 +207,14 @@
 	<item>
 		<category>補足/Ｑ＆Ａ</category>
 		<link>補足/Ｑ＆Ａ.html</link>
+	</item>
+	<item>
+		<category>補足/Chromium Embedded Framework ライセンス</category>
+		<link>補足/Chromium Embedded Framework ライセンス.txt</link>
+	</item>
+	<item>
+		<category>補足/IAccessible2Proxy.dll ライセンス</category>
+		<link>補足/IAcc2License.txt</link>
 	</item>
 
 </list-index>
