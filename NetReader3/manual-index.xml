@@ -129,13 +129,9 @@
 		<category>ページの操作 初級/リンクの操作</category>
 		<link>ページの操作 初級/リンクの操作.html</link>
 	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ページの操作 初級/ページ内容の読み上げ</category>
 		<link>ページの操作 初級/ページ内容の読み上げ.html</link>
-	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ページの操作 初級/ページ内容の読み上げ</category>
-		<link>ページの操作 初級/ページ内容の読み上げ_beta.html</link>
 	</item>
 	<item>
 		<category>ページの操作 中級/ページ内の検索</category>
@@ -183,35 +179,22 @@
 		<category>ページの操作 上級/正規表現検索</category>
 		<link>ページの操作 上級/正規表現検索.html</link>
 	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ページの操作 上級/ジャンプ</category>
 		<link>ページの操作 上級/ジャンプ.html</link>
 	</item>
 
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ページの操作 上級/ジャンプ</category>
-		<link>ページの操作 上級/ジャンプ_beta.html</link>
-	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ページの操作 上級/ページマーク</category>
 		<link>ページの操作 上級/ページマーク.html</link>
-	</item>
-
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ページの操作 上級/ページマーク</category>
-		<link>ページの操作 上級/ページマーク_beta.html</link>
 	</item>
 	<item>
 		<category>ページの操作 上級/スマートナビ</category>
 		<link>ページの操作 上級/スマートナビ.html</link>
 	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ページの操作 上級/操作モード</category>
 		<link>ページの操作 上級/操作モード.html</link>
-	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ページの操作 上級/操作モード</category>
-		<link>ページの操作 上級/操作モード_beta.html</link>
 	</item>
 	<item>
 		<category>ページの操作 上級/エンコード</category>
@@ -233,8 +216,6 @@
 		<category>ページの操作 上級/クイックビュー</category>
 		<link>ページの操作 上級/クイックビュー.html</link>
 	</item>
-
-
 	<item>
 		<category>ページの読み上げ/読み上げ部分の識別音</category>
 		<link>ページの読み上げ/読み上げ部分の識別音.html</link>
@@ -300,7 +281,7 @@
 		<category>ユーザー補助と環境設定/表示オプション</category>
 		<link>ユーザー補助と環境設定/表示オプション.html</link>
 	</item>
-		<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ユーザー補助と環境設定/起動オプション</category>
 		<link>../Common/起動オプション.html</link>
 	</item>
@@ -312,10 +293,6 @@
 	<item>
 		<category>ユーザー補助と環境設定/インターネットオプション</category>
 		<link>ユーザー補助と環境設定/インターネットオプション.html</link>
-	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ユーザー補助と環境設定/標準のブラウザにする</category>
-		<link>ユーザー補助と環境設定/標準のブラウザにする.html</link>
 	</item>
 	<item>
 		<category>ユーザー補助と環境設定/IE互換 ハイレベルを保つ</category>
@@ -329,8 +306,6 @@
 		<category>ユーザー補助と環境設定/スマートフォン用のページを開く</category>
 		<link>ユーザー補助と環境設定/スマートフォン用のページを開く.html</link>
 	</item>
-
-
 	<item>
 		<category>保守/環境のクリーンアップ</category>
 		<link>保守/環境のクリーンアップ.html</link>
@@ -343,48 +318,31 @@
 		<category>保守/品質向上プログラムに報告する</category>
 		<link>保守/品質向上プログラムに報告する.html</link>
 	</item>
-
-
 	<item>
 		<category>アドイン</category>
 		<link>補足/アドイン.html</link>
 	</item>
 
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>コマンド一覧/フルキーコマンド</category>
 		<link>コマンド一覧/フルキーコマンド一覧.html</link>
-	</item>
-
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>コマンド一覧/フルキーコマンド</category>
-		<link>コマンド一覧/フルキーコマンド一覧_beta.html</link>
 	</item>
 	<item>
 		<category>コマンド一覧/タッチコマンド</category>
 		<link>コマンド一覧/タッチコマンド一覧.html</link>
 	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>コマンド一覧/点字コマンド</category>
 		<link>コマンド一覧/点字コマンド一覧.html</link>
 	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>コマンド一覧/点字コマンド</category>
-		<link>コマンド一覧/点字コマンド一覧_beta.html</link>
-	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>コマンド一覧/５０オン順点字コマンド</category>
 		<link>コマンド一覧/５０オン順点字コマンド一覧.html</link>
 	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>コマンド一覧/５０オン順点字コマンド</category>
-		<link>コマンド一覧/５０オン順点字コマンド一覧_beta.html</link>
-	</item>
-
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>補足/ネットリーダーⅡとクラシックモードの違い</category>
 		<link>補足/ネットリーダー2との違い.html</link>
 	</item>
-
 	<item>
 		<category>補足/Ｑ＆Ａ</category>
 		<link>補足/Ｑ＆Ａ.html</link>
