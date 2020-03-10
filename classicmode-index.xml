@@ -232,8 +232,13 @@
 		<category>補足/Ｑ＆Ａ</category>
 		<link>NetReader3/補足/Ｑ＆Ａ.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>補足/更新情報</category>
 		<link>更新情報.html</link>
+	</item>
+
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>補足/ベータ版更新情報</category>
+		<link>ベータ版更新情報.html</link>
 	</item>
 </list-index>
