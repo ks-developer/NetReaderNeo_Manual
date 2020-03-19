@@ -152,9 +152,13 @@
 		<category>ユーザー補助と環境設定/画面の拡大</category>
 		<link>NetReader3/ユーザー補助と環境設定/画面の拡大.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ユーザー補助と環境設定/閲覧オプション</category>
 		<link>NetReader3/ユーザー補助と環境設定/閲覧オプション.html</link>
+	</item>
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ユーザー補助と環境設定/閲覧オプション</category>
+		<link>NetReader3/ユーザー補助と環境設定/閲覧オプション_beta.html</link>
 	</item>
 	<item>
 		<category>ユーザー補助と環境設定/読み上げオプション</category>
