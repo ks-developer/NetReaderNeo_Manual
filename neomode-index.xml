@@ -142,11 +142,11 @@
 
 	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ユーザー補助と環境設定/閲覧オプション</category>
-		<link>ユーザー補助と環境設定/閲覧オプション_beta.html</link>
+		<link>NetReader5/ユーザー補助と環境設定/閲覧オプション_beta.html</link>
 	</item>
 	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ユーザー補助と環境設定/操作オプション</category>
-		<link>ユーザー補助と環境設定/操作オプション.html</link>
+		<link>NetReader5/ユーザー補助と環境設定/操作オプション.html</link>
 	</item>
 
 	<item>
@@ -196,7 +196,7 @@
 	</item>
 	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>コマンド一覧/フルキーコマンド</category>
-		<link>コマンド一覧/フルキーコマンド一覧_beta.html</link>
+		<link>NetReader5/コマンド一覧/フルキーコマンド一覧_beta.html</link>
 	</item>
 
 	<item>
