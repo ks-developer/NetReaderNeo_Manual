@@ -41,9 +41,13 @@
 		<category>ページの操作 中級/ページ内容の書き出し</category>
 		<link>NetReader5/ページの操作中級/ページ内容の書き出し.html</link>
 	</item>
-	<item>
+	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
 		<category>ページの操作 中級/フォームの操作</category>
 		<link>NetReader5/ページの操作中級/フォームの操作.html</link>
+	</item>
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>ページの操作 中級/フォームの操作</category>
+		<link>NetReader5/ページの操作中級/フォームの操作_beta.html</link>
 	</item>
 	<item>
 		<category>ページの操作 中級/ページを最新に更新</category>
