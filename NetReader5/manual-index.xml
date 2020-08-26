@@ -154,16 +154,12 @@
 		<link>ユーザー補助と環境設定/画面の拡大.html</link>
 	</item>
 
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ユーザー補助と環境設定/閲覧オプション</category>
 		<link>ユーザー補助と環境設定/閲覧オプション.html</link>
 	</item>
 
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ユーザー補助と環境設定/閲覧オプション</category>
-		<link>ユーザー補助と環境設定/閲覧オプション_beta.html</link>
-	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ユーザー補助と環境設定/操作オプション</category>
 		<link>ユーザー補助と環境設定/操作オプション.html</link>
 	</item>
@@ -208,13 +204,9 @@
 		<category>アドイン</category>
 		<link>補足/アドイン.html</link>
 	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>コマンド一覧/フルキーコマンド</category>
 		<link>コマンド一覧/フルキーコマンド一覧.html</link>
-	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>コマンド一覧/フルキーコマンド</category>
-		<link>コマンド一覧/フルキーコマンド一覧_beta.html</link>
 	</item>
 
 	<item>
