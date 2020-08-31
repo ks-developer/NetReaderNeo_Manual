@@ -144,7 +144,10 @@
 		<category>お気に入り/お気に入りのバックアップ</category>
 		<link>../Common/お気に入り/お気に入りのバックアップ.html</link>
 	</item>
-
+	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+		<category>パスワードの自動保存と管理</category>
+		<link>パスワードの自動保存と管理.html</link>
+	</item>
 	<item>
 		<category>ユーザー補助と環境設定/画面の種類</category>
 		<link>ユーザー補助と環境設定/画面.html</link>
