@@ -129,7 +129,7 @@
 		<category>お気に入り/お気に入りのバックアップ</category>
 		<link>Common/お気に入り/お気に入りのバックアップ.html</link>
 	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>パスワードの自動保存と管理</category>
 		<link>NetReader5/パスワードの自動保存と管理.html</link>
 	</item>
@@ -143,13 +143,9 @@
 		<link>NetReader5/ユーザー補助と環境設定/画面の拡大.html</link>
 	</item>
 
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ユーザー補助と環境設定/閲覧オプション</category>
 		<link>NetReader5/ユーザー補助と環境設定/閲覧オプション.html</link>
-	</item>
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ユーザー補助と環境設定/閲覧オプション</category>
-		<link>NetReader5/ユーザー補助と環境設定/閲覧オプション_beta.html</link>
 	</item>
 
 	<item>
