@@ -164,15 +164,10 @@
 		<link>Common/起動オプション.html</link>
 	</item>
 
-	<item target="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
+	<item>
 		<category>ユーザー補助と環境設定/ホームと起動ページの設定</category>
 		<link>NetReader5/ユーザー補助と環境設定/ホームと起動ページの設定.html</link>
 	</item>
-	<item notarget="rc:$MYPRODUCTDIR-NetReader$\NetReader.exe">
-		<category>ユーザー補助と環境設定/ホームの登録と変更</category>
-		<link>NetReader5/ユーザー補助と環境設定/ホームの登録と変更.html</link>
-	</item>
-
 	<item>
 		<category>ユーザー補助と環境設定/スマートフォン用のページを開く</category>
 		<link>NetReader5/ユーザー補助と環境設定/スマートフォン用のページを開く.html</link>
