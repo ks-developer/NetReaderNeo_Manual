@@ -1,7 +1,7 @@
 # NetReaderNeo
 
 ## 編集時の推奨環境
-- エディター：vscode
+- エディター：vscode 
 
 ### vscodeのHTMLフォーマッタの設定
 
